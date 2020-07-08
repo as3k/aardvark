@@ -1,0 +1,15 @@
+{
+  "name": "Aardvark",
+  "version": "1.0.1",
+  "manifest_version": 2,
+  "description": "Chrome extension to generate secure passphrases based on Ultra Ignorant Aardvark.",
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_title": "Aardvark"
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}
